@@ -5,7 +5,7 @@ Scraper for Data of the Family Dollar Store
 - Scrapes Family Dollar Data for Informational purposes from https://www.familydollar.com/locations/ and puts them into excel and csv files.
 
 ## Data
-There is a lot of data to process, so sample data of the output is provided.
+There is a lot of data to process, so data is also provided by data.xlsx and data.csv.
 
 ## How to Use
 1. Make sure to have python installed on your machine.
